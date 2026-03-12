@@ -1,0 +1,9 @@
+.zer0dex/
+.mem0_chroma/
+__pycache__/
+*.pyc
+.env
+*.key
+dist/
+*.egg-info/
+AGENT-OPTIMIZATION-CHECKLIST.md
